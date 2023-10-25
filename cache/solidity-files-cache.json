@@ -1,0 +1,40 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/vincent.vanhassel/BNP/sandbox/Besu/contracts/contracts/Increment.sol": {
+      "lastModificationDate": 1698244742956,
+      "contentHash": "8795b3604b0cd8539c2ee348dbfb4ccc",
+      "sourceName": "contracts/Increment.sol",
+      "solcConfig": {
+        "version": "0.8.19",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.9"
+      ],
+      "artifacts": [
+        "Incrementer"
+      ]
+    }
+  }
+}
